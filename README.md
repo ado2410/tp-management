@@ -36,14 +36,32 @@ Thông qua nghiên cứu và phân tích thì nhóm chúng em phân chia thành 
 - Thông tin sinh viên: Hiển thị thông tin của tài khoản sinh viên đang đăng nhập.
 ![student_1](https://user-images.githubusercontent.com/15710296/194337924-2d80e351-bef7-4069-99d6-e6c9887b2c95.png)
 - Xem đánh giá kết quả rèn luyện của sinh viên mỗi học kỳ.
+![student_2](https://user-images.githubusercontent.com/15710296/194339699-184d9392-3470-40ca-9af9-ade0633fd190.png)
+![student_3](https://user-images.githubusercontent.com/15710296/194339780-5e72a5f1-03e8-48c5-95a4-772a98a565ef.png)
 - In phiếu điểm rèn luyện.
+![student_4](https://user-images.githubusercontent.com/15710296/194339859-53c47461-1d9a-4dcf-b11f-fd8e929fda9b.png)
 - Xem danh sách hoạt động mỗi học kỳ.
+![student_5](https://user-images.githubusercontent.com/15710296/194339937-134da3e1-110f-4dfe-ba3e-d31e7c75963e.png)
 - Sinh viên tự đánh giá: Ở mỗi hoạt động, nếu người quản trị hoặc tài khoản quản lý hoạt động đó mở cho phép chỉnh sửa hoạt động trong một khoảng thời gian giới hạn thì sinh viên có thể tự đánh giá điểm rèn luyện cá nhân.
+![student_6](https://user-images.githubusercontent.com/15710296/194339964-6ae12c02-499f-4923-a9f6-0575227ec2f8.png)
 ### b. Chức năng của người nhập liệu
 - Xem danh sách tài khoản sinh viên.
+![importer_1](https://user-images.githubusercontent.com/15710296/194340073-63fc5ca3-324e-44a9-9261-9d22e41fd1a0.png)
 - Quản lý hoạt động.
+![importer_2](https://user-images.githubusercontent.com/15710296/194340117-856fb137-43da-41b0-84c5-a44a3c53f3d9.png)
+![importer_3](https://user-images.githubusercontent.com/15710296/194340134-26a2423f-9489-45ba-b828-bbf43d0f6cc0.png)
 - Xem cấu hình chấm điểm rèn luyện tự động.
+![importer_5](https://user-images.githubusercontent.com/15710296/194340200-013aff0f-324b-4c05-8c24-ffa4167dfcad.png)
 ### c. Chức năng của người quản trị
-- Quản lý tài khoản.
 - Quản lý phòng ban.
+![admin_1](https://user-images.githubusercontent.com/15710296/194340260-9bb28719-c309-458e-85fe-8cb5f7a59481.png)
+![admin_2](https://user-images.githubusercontent.com/15710296/194340282-82a4838b-d08c-4632-915b-e783574ae3aa.png)
+![admin_3](https://user-images.githubusercontent.com/15710296/194340362-55cdabdc-b728-434c-97f6-44d367bd8501.png)
+- Quản lý tài khoản.
+![admin_4](https://user-images.githubusercontent.com/15710296/194340406-829c7e69-8df7-4e7b-8d3f-2f57435ee6cc.png)
 - Tuỳ chỉnh cấu hình chấm điểm rèn luyện tự động.
+![admin_5](https://user-images.githubusercontent.com/15710296/194340467-6b6909a4-0672-4b7b-92d0-df7357b1f89f.png)
+![admin_6](https://user-images.githubusercontent.com/15710296/194340482-2ab258b4-2e06-4125-a986-6fe2df0c04ed.png)
+![admin_7](https://user-images.githubusercontent.com/15710296/194340500-209bd130-c6d3-479e-8cbc-458458753aed.png)
+
+Để xem chi tiết hơn vui lòng truy cập file [BaoCao_TPManagement.pdf]()
