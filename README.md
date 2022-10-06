@@ -18,7 +18,7 @@ Thông qua nghiên cứu và phân tích thì nhóm chúng em phân chia thành 
 | 3 | QTV/NNL | Quản lý đánh giá sinh viên (điểm danh sinh viên, khen thưởng sinh viên, đánh vi phạm…) | Quản lý đánh giá các hoạt động mà sinh viên tham gia, các khen thưởng và vi phạm. |
 | 4 | QTV Cấu hình chấm rèn luyện sinh viên | Ở mỗi học kỳ có các hoạt động và các tiêu chí đánh giá để tính điểm rèn luyện cho sinh viên. Để đánh giá được đúng theo yêu cầu của nhà trường, hệ thống cần phải cấu hình để đánh giá chính xác và chấm điểm rèn luyện chính xác. |
 | 5 | QTV Nhập/xuất dữ liệu | Giúp cho QTV nhập và xuất dữ liệu về hoạt động, đánh giá và học kỳ nhanh chóng. |
-| 6 | QTV Quản lý nhóm | Quản lý các nhóm khoa/nhóm phòng ban. |
+| 6 | QTV Quản lý nhóm | Quản lý các nhóm khoa/nhóm phòng ban và phân quyền truy cập hệ thống cho mỗi nhóm. |
 | 6 | QTV/NNL/SV Xem thống kê | Thống kê số lượng và xếp loại sinh viên, theo lớp khoa và khoá. |
 | 7 | QTV Quản lý năm học | Quản lý các năm học. |
 | 8 | QTV Quản lý học kỳ | Quản lý các học kỳ. |
@@ -27,4 +27,23 @@ Thông qua nghiên cứu và phân tích thì nhóm chúng em phân chia thành 
 | 11 | QTV Quản lý lớp | Quản lý các lớp. |
 | 12 | SV | Xem điểm rèn luyện | Sinh viên có thể xem điểm rèn luyện cá nhân từng học kỳ trên hệ thống website, hệ thống sẽ hiển thị bảng đánh giá điểm theo từng tiêu chí và tổng điểm rèn luyện. |
 | 13 | SV | In phiếu điểm rèn luyện | In phiếu phiếu điểm rèn luyện khi sinh viên cần in phiếu điểm để dùng cho nhiều mục đích khác. |
-## 4. Demo sản phẩm
+### c. Sơ đồ lớp
+![image](https://user-images.githubusercontent.com/15710296/194336510-90565362-da58-4fe3-9e77-28194bb71c9e.png)
+### d. Lược đồ CSDL
+![image](https://user-images.githubusercontent.com/15710296/194336750-b7bdc07a-9617-4ce0-b140-4d47eee84a6e.png)
+## 4. Hình ảnh demo sản phẩm
+### a. Chức năng của sinh viên
+- Thông tin sinh viên: Hiển thị thông tin của tài khoản sinh viên đang đăng nhập.
+![student_1](https://user-images.githubusercontent.com/15710296/194337924-2d80e351-bef7-4069-99d6-e6c9887b2c95.png)
+- Xem đánh giá kết quả rèn luyện của sinh viên mỗi học kỳ.
+- In phiếu điểm rèn luyện.
+- Xem danh sách hoạt động mỗi học kỳ.
+- Sinh viên tự đánh giá: Ở mỗi hoạt động, nếu người quản trị hoặc tài khoản quản lý hoạt động đó mở cho phép chỉnh sửa hoạt động trong một khoảng thời gian giới hạn thì sinh viên có thể tự đánh giá điểm rèn luyện cá nhân.
+### b. Chức năng của người nhập liệu
+- Xem danh sách tài khoản sinh viên.
+- Quản lý hoạt động.
+- Xem cấu hình chấm điểm rèn luyện tự động.
+### c. Chức năng của người quản trị
+- Quản lý tài khoản.
+- Quản lý phòng ban.
+- Tuỳ chỉnh cấu hình chấm điểm rèn luyện tự động.
