@@ -4,8 +4,9 @@ Theo như tìm hiểu, hiện tại Phân hiệu ĐHĐN tại Kon Tum hiện t�
 Xuất phát từ những lý do đó, nhóm chúng em chọn đề tài “Xây dựng website quản lý điểm rèn luyện sinh viên UDCK” để nghiên cứu nhằm hỗ trợ Nhà trường hoàn thiện hơn chương trình chuyển đổi số và phù hợp với xu hướng của thời đại, cũng như giúp sinh viên và nhà trường có một hệ giống giúp tự động hóa công tác quản lý và chấm điểm rèn luyện.
 ## II. Công nghệ sử dụng
 Một yếu tố quan trọng để một nhà phát triển website hay phần mềm có thể phát triển và sử dụng được hệ thống của họ trong công việc thực thế là cần phải có một giải pháp thiết kế phù hợp và hiệu quả nhất. Qua quá trình tìm hiểu về thực trạng quản lý thu nhập cũng như là tự nghiên cứu và tìm kiếm các tài liệu liên quan trên Internet thì nhóm chúng em đã đưa ra được một mô hình giải pháp thiết kế hệ thống website như hình dưới:
-![image](https://user-images.githubusercontent.com/15710296/194341290-069ad606-81da-4201-9718-53021973e7b9.png)
-*Mô hình giải pháp thiết kế được sử dụng trong hệ thống*
+| ![image](https://user-images.githubusercontent.com/15710296/194341290-069ad606-81da-4201-9718-53021973e7b9.png) |
+|:--:|
+| *Mô hình giải pháp thiết kế được sử dụng trong hệ thống* |
 ## III. Các chức năng
 ### 1. Tác nhân sử dụng
 Thông qua nghiên cứu và phân tích thì nhóm chúng em phân chia thành 3 đối tượng sử dụng hệ thống website như sau:
