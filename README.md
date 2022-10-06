@@ -64,4 +64,4 @@ Thông qua nghiên cứu và phân tích thì nhóm chúng em phân chia thành 
 ![admin_6](https://user-images.githubusercontent.com/15710296/194340482-2ab258b4-2e06-4125-a986-6fe2df0c04ed.png)
 ![admin_7](https://user-images.githubusercontent.com/15710296/194340500-209bd130-c6d3-479e-8cbc-458458753aed.png)
 
-Để xem chi tiết hơn vui lòng truy cập file [BaoCao_TPManagement.pdf]()
+Để xem đầy đủ báo cáo phần mềm vui lòng truy cập file [BaoCao_TPManagement.pdf](https://github.com/jennydo2000/tp-management/blob/master/BaoCao_PTManager.pdf)
