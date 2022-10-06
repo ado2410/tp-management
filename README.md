@@ -69,21 +69,41 @@ Hiển thị thông tin của tài khoản sinh viên đang đăng nhập
 | ![importer_1](https://user-images.githubusercontent.com/15710296/194340073-63fc5ca3-324e-44a9-9261-9d22e41fd1a0.png) |
 |:--:|
 | *Danh sách tài khoản sinh viên* |
-#### Quản lý hoạt động.
-![importer_2](https://user-images.githubusercontent.com/15710296/194340117-856fb137-43da-41b0-84c5-a44a3c53f3d9.png)
-![importer_3](https://user-images.githubusercontent.com/15710296/194340134-26a2423f-9489-45ba-b828-bbf43d0f6cc0.png)
-#### Xem cấu hình chấm điểm rèn luyện tự động.
-![importer_5](https://user-images.githubusercontent.com/15710296/194340200-013aff0f-324b-4c05-8c24-ffa4167dfcad.png)
-### c. Chức năng của người quản trị
-- Quản lý phòng ban.
-![admin_1](https://user-images.githubusercontent.com/15710296/194340260-9bb28719-c309-458e-85fe-8cb5f7a59481.png)
-![admin_2](https://user-images.githubusercontent.com/15710296/194340282-82a4838b-d08c-4632-915b-e783574ae3aa.png)
-![admin_3](https://user-images.githubusercontent.com/15710296/194340362-55cdabdc-b728-434c-97f6-44d367bd8501.png)
-- Quản lý tài khoản.
-![admin_4](https://user-images.githubusercontent.com/15710296/194340406-829c7e69-8df7-4e7b-8d3f-2f57435ee6cc.png)
-- Tuỳ chỉnh cấu hình chấm điểm rèn luyện tự động.
-![admin_5](https://user-images.githubusercontent.com/15710296/194340467-6b6909a4-0672-4b7b-92d0-df7357b1f89f.png)
-![admin_6](https://user-images.githubusercontent.com/15710296/194340482-2ab258b4-2e06-4125-a986-6fe2df0c04ed.png)
-![admin_7](https://user-images.githubusercontent.com/15710296/194340500-209bd130-c6d3-479e-8cbc-458458753aed.png)
+#### Quản lý hoạt động
+| ![importer_2](https://user-images.githubusercontent.com/15710296/194340117-856fb137-43da-41b0-84c5-a44a3c53f3d9.png) |
+|:--:|
+| *Xem danh sách thông tin hoạt động* |
+| ![importer_3](https://user-images.githubusercontent.com/15710296/194340134-26a2423f-9489-45ba-b828-bbf43d0f6cc0.png) |
+|:--:|
+| *Thêm hoạt động mới vào hệ thống* |
+#### Xem cấu hình chấm điểm rèn luyện tự động
+| ![importer_5](https://user-images.githubusercontent.com/15710296/194340200-013aff0f-324b-4c05-8c24-ffa4167dfcad.png) |
+|:--:|
+| *Xem cấu hình chấm điểm rèn luyện* |
+### 3. Chức năng của người quản trị
+#### a. Quản lý phòng ban
+| ![admin_1](https://user-images.githubusercontent.com/15710296/194340260-9bb28719-c309-458e-85fe-8cb5f7a59481.png) |
+|:--:|
+| *Giao diện xem danh sách phòng ban* |
+| ![admin_2](https://user-images.githubusercontent.com/15710296/194340282-82a4838b-d08c-4632-915b-e783574ae3aa.png) |
+|:--:|
+| *Giao diện nhóm con của một phòng ban* |
+| ![admin_3](https://user-images.githubusercontent.com/15710296/194340362-55cdabdc-b728-434c-97f6-44d367bd8501.png) |
+|:--:|
+| *Thêm phòng ban mới* |
+#### b. Quản lý tài khoản
+| ![admin_4](https://user-images.githubusercontent.com/15710296/194340406-829c7e69-8df7-4e7b-8d3f-2f57435ee6cc.png) |
+|:--:|
+| *Trang xem danh sách tài khoản* |
+#### c. Tuỳ chỉnh cấu hình chấm điểm rèn luyện tự động.
+| ![admin_5](https://user-images.githubusercontent.com/15710296/194340467-6b6909a4-0672-4b7b-92d0-df7357b1f89f.png) |
+|:--:|
+| *Cấu hình điểm rèn luyện tự động* |
+| ![admin_6](https://user-images.githubusercontent.com/15710296/194340482-2ab258b4-2e06-4125-a986-6fe2df0c04ed.png) |
+|:--:|
+| *Chỉnh sửa tiêu chí đánh giá* |
+| ![admin_7](https://user-images.githubusercontent.com/15710296/194340500-209bd130-c6d3-479e-8cbc-458458753aed.png) |
+|:--:|
+| *Thêm hoạt động vào tiêu chí* |
 
 Để xem đầy đủ báo cáo phần mềm vui lòng truy cập file [BaoCao_TPManagement.pdf](https://github.com/jennydo2000/tp-management/blob/master/BaoCao_PTManager.pdf)
