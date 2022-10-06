@@ -50,7 +50,6 @@ Hiển thị thông tin của tài khoản sinh viên đang đăng nhập
 |:--:|
 | *Lựa chọn học kỳ* |
 | ![student_3](https://user-images.githubusercontent.com/15710296/194339780-5e72a5f1-03e8-48c5-95a4-772a98a565ef.png) |
-|:--:|
 | *Giao diện xem đánh giá kết quả rèn luyện* |
 #### c. In phiếu điểm rèn luyện
 | ![student_4](https://user-images.githubusercontent.com/15710296/194339859-53c47461-1d9a-4dcf-b11f-fd8e929fda9b.png) |
@@ -75,7 +74,6 @@ Hiển thị thông tin của tài khoản sinh viên đang đăng nhập
 |:--:|
 | *Xem danh sách thông tin hoạt động* |
 | ![importer_3](https://user-images.githubusercontent.com/15710296/194340134-26a2423f-9489-45ba-b828-bbf43d0f6cc0.png) |
-|:--:|
 | *Thêm hoạt động mới vào hệ thống* |
 #### Xem cấu hình chấm điểm rèn luyện tự động
 | ![importer_5](https://user-images.githubusercontent.com/15710296/194340200-013aff0f-324b-4c05-8c24-ffa4167dfcad.png) |
@@ -87,10 +85,8 @@ Hiển thị thông tin của tài khoản sinh viên đang đăng nhập
 |:--:|
 | *Giao diện xem danh sách phòng ban* |
 | ![admin_2](https://user-images.githubusercontent.com/15710296/194340282-82a4838b-d08c-4632-915b-e783574ae3aa.png) |
-|:--:|
 | *Giao diện nhóm con của một phòng ban* |
 | ![admin_3](https://user-images.githubusercontent.com/15710296/194340362-55cdabdc-b728-434c-97f6-44d367bd8501.png) |
-|:--:|
 | *Thêm phòng ban mới* |
 #### b. Quản lý tài khoản
 | ![admin_4](https://user-images.githubusercontent.com/15710296/194340406-829c7e69-8df7-4e7b-8d3f-2f57435ee6cc.png) |
@@ -101,10 +97,8 @@ Hiển thị thông tin của tài khoản sinh viên đang đăng nhập
 |:--:|
 | *Cấu hình điểm rèn luyện tự động* |
 | ![admin_6](https://user-images.githubusercontent.com/15710296/194340482-2ab258b4-2e06-4125-a986-6fe2df0c04ed.png) |
-|:--:|
 | *Chỉnh sửa tiêu chí đánh giá* |
 | ![admin_7](https://user-images.githubusercontent.com/15710296/194340500-209bd130-c6d3-479e-8cbc-458458753aed.png) |
-|:--:|
 | *Thêm hoạt động vào tiêu chí* |
 
 Để xem đầy đủ báo cáo phần mềm vui lòng truy cập file [BaoCao_TPManagement.pdf](https://github.com/jennydo2000/tp-management/blob/master/BaoCao_PTManager.pdf)
